@@ -1,0 +1,25 @@
+#media-upload tr.same-window td.field {
+text-align:center;
+}
+
+#media-upload tr.same-window{
+background-color:#F5FCFD;
+}
+
+#media-upload tr.same-window label{
+padding-right:30px;
+}
+
+#media-upload th.label {
+padding-bottom:0.5em;
+text-align:left;
+}
+
+#media-upload .help {
+font-style:italic;
+font-weight:normal;
+}
+
+table.form-table tr.same-window{
+display:none;
+}
